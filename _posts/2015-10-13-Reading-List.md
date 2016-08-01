@@ -10,7 +10,7 @@ title: My Reading List
 ## Books I Want to Read
 1. [Structure and Interpretation of Computer Programs](http://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871)
 
-Here is a link to [a spreadsheet](https://docs.google.com/spreadsheets/d/1zHX-QksBkEPUhO9w6bDjc66iGCqZ-jzvPEwqvn52GEE/edit?usp=sharing) which has the names of the books that I want to read and that I have read over the past few months. The list was started in sometime, January, I think.
+Here is a link to [a spreadsheet](https://docs.google.com/spreadsheets/d/1zHX-QksBkEPUhO9w6bDjc66iGCqZ-jzvPEwqvn52GEE/edit?usp=sharing) which has the names of the books that I want to read and that I have read over the past few months. The list was started in sometime January, I think.
 
 ## Books I Have Read
 1. Existentialism by Patricia Sanborn
