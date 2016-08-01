@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Morning Journal #69
+title: Morning Journal \#69
 ---
 
 Those select few who win the Nobel Prize in Literature such as Hermann Hesse, Ernest Hemingway and Mo Yan, have a distinct style. 
